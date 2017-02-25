@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rajesh Kumar -- Devloper -- @rajthemastry
 
 # THANKS
 
-    <name>
+    Thanks to all my Blog readers, who encouraged me to write the
+    TaskBuster Django Tutorial
 
 # TECHNOLOGY COLOPHON
 
