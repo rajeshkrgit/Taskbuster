@@ -2,6 +2,10 @@
 from .base import *
 DEBUG = True
 
+FIXTURE_DIRS = (
+    os.path.join(BASE_DIR, 'fixtures'),
+    )
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
@@ -12,3 +16,4 @@ DATABASES = {
         'PORT': '',
     }
 }
+
